@@ -1,2 +1,2 @@
 # My-Task-List
-This is a basic web app created using html
+This is a basic web app created using html, font-awesomecss and javascript. Here, an user can add any amount of tasks he/she wants and also remove any particualr task according to his/her wish or remove all the pre-added tasks at once. This web app contains form-validation, filter option and is also connected to the local storage of browser means even if the user closes the website after adding some tasks and then, open the website again the next day, then, the tasks which were added previously will not get removed.
